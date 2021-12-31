@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1036px" height="626px" viewBox="0 0 1036 626" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>RunningLights</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="914" height="330" rx="10"></rect>
+        <rect id="path-3" x="0" y="0" width="1018" height="602" rx="10"></rect>
+        <rect id="path-5" x="0" y="0" width="204" height="115" rx="10"></rect>
+        <rect id="path-7" x="0" y="0" width="204" height="115" rx="10"></rect>
+        <rect id="path-9" x="0" y="0" width="216" height="115" rx="10"></rect>
+        <rect id="path-11" x="0" y="0" width="204" height="115" rx="10"></rect>
+    </defs>
+    <g id="RunningLights" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Lights" transform="translate(66.000000, 68.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <rect stroke="#979797" stroke-width="2" x="-1" y="-1" width="916" height="332" rx="10"></rect>
+            <rect id="Rectangle" fill="#D8D8D8" mask="url(#mask-2)" x="0" y="0" width="915" height="63"></rect>
+            <text mask="url(#mask-2)" font-family="LucidaGrande-Bold, Lucida Grande" font-size="16" font-weight="bold" fill="#353535">
+                <tspan x="411" y="20">Lights</tspan>
+            </text>
+            <text id="entry-/-clear()" mask="url(#mask-2)" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+                <tspan x="13" y="50">entry / clear()</tspan>
+            </text>
+        </g>
+        <g id="(H)" transform="translate(9.000000, 10.000000)">
+            <g id="Controller">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <rect stroke="#979797" stroke-width="2" x="-1" y="-1" width="1020" height="604" rx="10"></rect>
+                <rect id="Rectangle" fill="#D8D8D8" mask="url(#mask-4)" x="0" y="0" width="1019" height="35"></rect>
+                <text mask="url(#mask-4)" font-family="LucidaGrande-Bold, Lucida Grande" font-size="16" font-weight="bold" fill="#353535">
+                    <tspan x="457" y="24">Controller</tspan>
+                </text>
+            </g>
+            <circle id="Oval" stroke="#979797" stroke-width="2" fill="#D8D8D8" cx="690" cy="352" r="14"></circle>
+            <text id="H" font-family="LucidaGrande-Bold, Lucida Grande" font-size="16" font-weight="bold" fill="#353535">
+                <tspan x="683.757812" y="358">H</tspan>
+            </text>
+            <path id="Path" d="M841.75,273 L841.75,288 C841.75,299.342971 832.648535,308.56018 821.350128,308.747106 L821,308.75 L237,308.75 C225.657029,308.75 216.43982,299.648535 216.252894,288.350128 L216.25,288 L216.25,279.296 L212.028682,286.801266 L210.721318,286.065874 L216.346318,276.065874 L217.653682,276.065874 L223.278682,286.065874 L221.971318,286.801266 L217.75,279.296 L217.75,288 C217.75,298.517164 226.184171,307.064423 236.657755,307.247019 L237,307.25 L821,307.25 C831.517164,307.25 840.064423,298.815829 840.247019,288.342245 L840.25,288 L840.25,273 L841.75,273 Z" fill="#979797" fill-rule="nonzero"></path>
+        </g>
+        <text id="timerTick" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+            <tspan x="511" y="336">timerTick</tspan>
+        </text>
+        <path id="Line-5" d="M534.755284,396.744752 L536.255248,396.755284 L536.249982,397.505266 L535.815747,459.348772 L535.765,466.477 L540.039602,459.002297 L540.411879,458.351214 L541.714047,459.095767 L541.34177,459.746851 L535.646695,469.707109 L534.98487,470.864591 L534.339364,469.69793 L528.784716,459.658681 L528.421619,459.002434 L529.734114,458.27624 L530.097211,458.932487 L534.265,466.466 L534.315784,459.33824 L534.750018,397.494734 L534.755284,396.744752 Z" fill="#979797" fill-rule="nonzero"></path>
+        <text id="buttonTap" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+            <tspan x="495.625" y="441">buttonTap</tspan>
+        </text>
+        <path id="Line-6" d="M691.822917,371.799106 L691.625441,373.117735 L689.926141,384.464673 L689.815061,385.206402 L688.331604,384.984241 L688.442684,384.242513 L689.717,375.727 L685.385439,381.29748 L614.092014,472.960455 L613.631559,473.55247 L612.44753,472.631559 L612.907986,472.039545 L684.201411,380.376569 L688.533,374.806 L680.594442,378.138324 L679.902879,378.428566 L679.322396,377.045439 L680.013959,376.755198 L690.593471,372.315092 L691.822917,371.799106 Z" fill="#979797" fill-rule="nonzero"></path>
+        <text id="buttonTap-Copy" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+            <tspan x="618.625" y="432">buttonTap</tspan>
+        </text>
+        <g id="Initial" transform="translate(90.000000, 143.000000)" fill="#979797">
+            <path id="Line-3" d="M7.77575263,16.7204857 L9.27454257,16.7807244 L9.2444232,17.5301194 C8.93803076,25.1534168 10.9636991,32.7351785 15.3329862,40.2880135 C18.0460882,44.9779347 21.4490889,49.0095521 25.4920728,52.3486356 L26.0473509,52.7996694 L31.992,56.652 L27.991929,49.0296224 L27.6433385,48.3655557 L28.9714721,47.6683747 L29.3200626,48.3324415 L34.6527878,58.4913128 L35.2725042,59.671876 L33.9417844,59.5884332 L22.4907997,58.8703987 L21.7422698,58.8234621 L21.836143,57.3264024 L22.5846729,57.3733389 L31.179,57.912 L25.1717506,54.0153531 C20.6775614,50.4301154 16.9642434,46.1033804 14.0345929,41.0391292 C9.6431445,33.4479857 7.53669111,25.7906625 7.72592418,18.0788231 L7.74563326,17.4698806 L7.77575263,16.7204857 Z" fill-rule="nonzero"></path>
+            <circle id="Oval" stroke="#979797" stroke-width="2" cx="8.5" cy="8.5" r="8.5"></circle>
+        </g>
+        <g id="Initial-Copy" transform="translate(29.000000, 54.000000)" fill="#979797">
+            <path id="Line-3" d="M7.77575263,16.7204857 L9.27454257,16.7807244 L9.2444232,17.5301194 C8.93803076,25.1534168 10.9636991,32.7351785 15.3329862,40.2880135 C18.0460882,44.9779347 21.4490889,49.0095521 25.4920728,52.3486356 L26.0473509,52.7996694 L31.992,56.652 L27.991929,49.0296224 L27.6433385,48.3655557 L28.9714721,47.6683747 L29.3200626,48.3324415 L34.6527878,58.4913128 L35.2725042,59.671876 L33.9417844,59.5884332 L22.4907997,58.8703987 L21.7422698,58.8234621 L21.836143,57.3264024 L22.5846729,57.3733389 L31.179,57.912 L25.1717506,54.0153531 C20.6775614,50.4301154 16.9642434,46.1033804 14.0345929,41.0391292 C9.6431445,33.4479857 7.53669111,25.7906625 7.72592418,18.0788231 L7.74563326,17.4698806 L7.77575263,16.7204857 Z" fill-rule="nonzero"></path>
+            <circle id="Oval" stroke="#979797" stroke-width="2" cx="8.5" cy="8.5" r="8.5"></circle>
+        </g>
+        <g id="Red" transform="translate(127.000000, 168.000000)">
+            <mask id="mask-6" fill="white">
+                <use xlink:href="#path-5"></use>
+            </mask>
+            <rect stroke="#979797" stroke-width="2" x="-1" y="-1" width="206" height="117" rx="10"></rect>
+            <rect id="Rectangle" fill="#D8D8D8" mask="url(#mask-6)" x="0" y="0" width="205" height="115"></rect>
+            <text id="entry-/-turnOnRedLed" mask="url(#mask-6)" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+                <tspan x="14" y="56">entry / turnOnRedLed()</tspan>
+            </text>
+            <text id="exit-/-turnOffRedLed" mask="url(#mask-6)" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+                <tspan x="15" y="80">exit / turnOffRedLed()</tspan>
+            </text>
+            <text mask="url(#mask-6)" font-family="LucidaGrande-Bold, Lucida Grande" font-size="16" font-weight="bold" fill="#353535">
+                <tspan x="72" y="21">Red</tspan>
+            </text>
+        </g>
+        <line x1="127.5" y1="194.5" x2="332.5" y2="194.5" id="Line" stroke="#979797" stroke-linecap="square"></line>
+        <g id="Paused" transform="translate(440.000000, 472.000000)">
+            <mask id="mask-8" fill="white">
+                <use xlink:href="#path-7"></use>
+            </mask>
+            <rect stroke="#979797" stroke-width="2" x="-1" y="-1" width="206" height="117" rx="10"></rect>
+            <rect id="Rectangle" fill="#D8D8D8" mask="url(#mask-8)" x="0" y="0" width="204" height="115"></rect>
+            <text mask="url(#mask-8)" font-family="LucidaGrande-Bold, Lucida Grande" font-size="16" font-weight="bold" fill="#353535">
+                <tspan x="72" y="20">Paused</tspan>
+            </text>
+            <line x1="0.5" y1="26.5" x2="204.5" y2="26.5" id="Line-8" stroke="#979797" stroke-linecap="square" mask="url(#mask-8)"></line>
+        </g>
+        <g id="Green" transform="translate(433.000000, 168.000000)">
+            <mask id="mask-10" fill="white">
+                <use xlink:href="#path-9"></use>
+            </mask>
+            <rect stroke="#979797" stroke-width="2" x="-1" y="-1" width="218" height="117" rx="10"></rect>
+            <rect id="Rectangle" fill="#D8D8D8" mask="url(#mask-10)" x="0" y="0" width="216" height="115"></rect>
+            <text id="entry-/-turnOnGreenL" mask="url(#mask-10)" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+                <tspan x="15" y="56">entry / turnOnGreenLed()</tspan>
+            </text>
+            <text id="exit-/-turnOffGreenL" mask="url(#mask-10)" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+                <tspan x="16" y="80">exit / turnOffGreenLed()</tspan>
+            </text>
+            <text mask="url(#mask-10)" font-family="LucidaGrande-Bold, Lucida Grande" font-size="16" font-weight="bold" fill="#353535">
+                <tspan x="76" y="21">Green</tspan>
+            </text>
+        </g>
+        <line x1="433.5" y1="194.5" x2="649.5" y2="194.5" id="Line-2" stroke="#979797" stroke-linecap="square"></line>
+        <g id="Blue" transform="translate(748.000000, 168.000000)">
+            <mask id="mask-12" fill="white">
+                <use xlink:href="#path-11"></use>
+            </mask>
+            <rect stroke="#979797" stroke-width="2" x="-1" y="-1" width="206" height="117" rx="10"></rect>
+            <rect id="Rectangle" fill="#D8D8D8" mask="url(#mask-12)" x="0" y="0" width="204" height="115"></rect>
+            <text id="entry-/-turnOnBlueLe" mask="url(#mask-12)" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+                <tspan x="14" y="56">entry / turnOnBlueLed()</tspan>
+            </text>
+            <text id="exit-/-turnOffBlueLe" mask="url(#mask-12)" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+                <tspan x="15" y="80">exit / turnOffBlueLed()</tspan>
+            </text>
+            <text mask="url(#mask-12)" font-family="LucidaGrande-Bold, Lucida Grande" font-size="16" font-weight="bold" fill="#353535">
+                <tspan x="84.4179688" y="20">Blue</tspan>
+            </text>
+        </g>
+        <line x1="748.5" y1="194.5" x2="952.5" y2="194.5" id="Line-7" stroke="#979797" stroke-linecap="square"></line>
+        <path id="Line-4" d="M423.839014,226.853622 L424.492696,227.221318 L434.492696,232.846318 L435.654797,233.5 L434.492696,234.153682 L424.492696,239.778682 L423.839014,240.146378 L423.103622,238.839014 L423.757304,238.471318 L431.262,234.25 L331.75,234.25 L331.75,232.75 L431.262,232.75 L423.757304,228.528682 L423.103622,228.160986 L423.839014,226.853622 Z" fill="#979797" fill-rule="nonzero"></path>
+        <text id="timerTick" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+            <tspan x="346" y="225">timerTick</tspan>
+        </text>
+        <path id="Line-4-Copy" d="M735.869768,226.853622 L736.523449,227.221318 L746.523449,232.846318 L747.68555,233.5 L746.523449,234.153682 L736.523449,239.778682 L735.869768,240.146378 L735.134376,238.839014 L735.788058,238.471318 L743.293,234.25 L651.75,234.25 L651.75,232.75 L743.293,232.75 L735.788058,228.528682 L735.134376,228.160986 L735.869768,226.853622 Z" fill="#979797" fill-rule="nonzero"></path>
+        <text id="timerTick-Copy-2" font-family="LucidaGrande, Lucida Grande" font-size="16" font-weight="normal" fill="#353535">
+            <tspan x="660" y="225">timerTick</tspan>
+        </text>
+    </g>
+</svg>
