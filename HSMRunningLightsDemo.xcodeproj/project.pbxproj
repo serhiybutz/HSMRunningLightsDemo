@@ -378,7 +378,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		40F722252758739D008DDA66 /* XCRemoteSwiftPackageReference "HSM" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/SergeBouts/HSM.git";
+			repositoryURL = "https://github.com/SerhiyButz/HSM.git";
 			requirement = {
 				kind = upToNextMinorVersion;
 				minimumVersion = 0.10.0;
